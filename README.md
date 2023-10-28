@@ -6,7 +6,7 @@ This guide for intern or newly graduated Devops Engineers.
 # Step-1
 Create an account at GCP, you can use 250 dollar credit from GCP.
 
-# Step-2
+# Step-2
 At newly created GCP account using Terraform create a project, 
 * give a custom project-id
 * create a user group and user,
